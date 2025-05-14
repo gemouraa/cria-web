@@ -56,7 +56,7 @@ export default function Portfolio() {
       title: "LIS Sustentável",
       description: "Site institucional para o projeto LIS Sustentável, focado em iniciativas de sustentabilidade e ações ambientais.",
       tags: ["Web", "Institucional", "Sustentabilidade"],
-      imageUrl: "https://images.unsplash.com/photo-1501854140801-50d01698950b?q=80&w=1740&auto=format&fit=crop",
+      imageUrl: "https://images.unsplash.com/photo-1464983953574-0892a716854b?q=80&w=1740&auto=format&fit=crop", // Imagem de ecologia
       projectUrl: "https://site-lis-sustentavel.vercel.app/",
     },
     {
@@ -72,6 +72,13 @@ export default function Portfolio() {
       tags: ["Web App", "Produtividade", "SPA"],
       imageUrl: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1740&auto=format&fit=crop",
     },
+    {
+      title: "Nildes festas",
+      description: "Site institucional da Nildes Festas, trazendo soluções em festas e eventos personalizados.",
+      tags: ["Web", "Eventos", "Institucional"],
+      imageUrl: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1740&auto=format&fit=crop",
+      projectUrl: "https://nildes-festas-site.vercel.app",
+    }
   ];
 
   return (
